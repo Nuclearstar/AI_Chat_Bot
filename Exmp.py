@@ -1,7 +1,7 @@
 import chatterbot
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
-#C:\Users\User\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\chatterbot_corpus\data\english
+
 chatbot = ChatBot('Ron Obvious',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     input_adapter='chatterbot.input.TerminalAdapter',
