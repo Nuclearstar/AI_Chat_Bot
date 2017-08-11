@@ -1,7 +1,7 @@
 """
 Owner: Nithin Prabhu
-I took the help of this API from the below link
-http://chatterbot.readthedocs.io/en/latest/index.html
+I took the help of chatterbot Python API and the various modules
+used here are not provided in this repository at present.
 """
 import chatterbot
 from chatterbot import ChatBot
