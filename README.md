@@ -1,7 +1,7 @@
 # AI_Chat_Bot
 Virtual assistant
 
-### Code Requirements
+## Code Requirements
 pip install telebot <br/>
 pip install chatterbot
 
